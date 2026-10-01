@@ -93,7 +93,7 @@ if 'news_data' not in st.session_state:
     st.session_state.news_data = []
 
 with st.sidebar:
-    LOGO_URL = "https://cormark.com/Portals/_default/Skins/Cormark/Images/Cormark_4C_183x42px.png"
+    LOGO_URL = "https://atbcm.atb.com/siteassets/global-components/atb-cormarkcapitalmarkets-logo-1125x1125-white.svg"
     st.image(LOGO_URL)
     st.title("Screener Settings")
     
