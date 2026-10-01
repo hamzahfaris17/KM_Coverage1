@@ -105,7 +105,7 @@ with st.sidebar:
     st.divider()
     keyword_filter = st.text_input("🔍 Search Headlines", "").strip().lower()
 
-st.title("Real Estate Coverage News Screener")
+st.title("McPharis's Coverage News Screener")
 
 # --- 5. BUILD SEARCH TASKS ---
 search_tasks = []
