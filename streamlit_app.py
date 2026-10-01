@@ -94,7 +94,7 @@ if 'news_data' not in st.session_state:
 
 with st.sidebar:
     LOGO_URL = "https://atbcm.atb.com/siteassets/global-components/atb-cormarkcapitalmarkets-logo-1125x1125-white.svg"
-    st.image(LOGO_URL)
+    st.image(LOGO_URL, link="https://cormark.com/")
     st.title("Screener Settings")
     
     dropdown_options = ["--- MASTER VIEWS ---", "Entire Coverage"]
