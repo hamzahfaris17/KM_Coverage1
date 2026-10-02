@@ -9,8 +9,8 @@ import concurrent.futures
 # --- 1. EXCLUSION LIST ---
 # Sourced from your provided image.
 EXCLUDED_SOURCES = [
-    "simplywall.st", "Yahoo Finance", "reminetwork.com", "marketscreener.com",
-    "The Motley Fool Canada", "mission.ca", "TradingView", "TBNewsWatch.com",
+    "simplywall.st", "Yahoo Finance", "reminetwork.com",
+    "The Motley Fool Canada", "mission.ca", "TBNewsWatch.com",
     "Finimize", "Weekly Voice", "Stock Traders Daily", "AD HOC NEWS",
     "Moomoo", "eKathimerini.com", "Binance", "MarketBeat",
     "Seeking Alpha", "GuruFocus", "Investing.com Canada", "kare11.com",
