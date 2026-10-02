@@ -29,6 +29,7 @@ COVERAGE = {
     "Cameco Uranium City": {"ticker": "CCO.TO", "full_name": "Cameco Corporation - Uranium City Operations", "ref_names": ["Cameco Uranium City", "Uranium City"]},
     "Ksi Lisims": {"ticker": "PRIVATE", "full_name": "Ksi Lisims LNG Project", "ref_names": ["Ksi Lisims", "Ksi Lisims LNG"]},
     "West Coast Pipeline": {"ticker": "PRIVATE", "full_name": "West Coast Oil Pipeline Project", "ref_names": ["West Coast Pipeline", "West Coast Oil Pipeline"]},
+    "Pacific Link": {"ticker": "PPL.TO", "full_name": "Pacific Link Pipeline Project (Pembina / Trans Mountain / GoA)", "ref_names": ["Pacific Link", "Pacific Link Pipeline", "West Coast Oil Pipeline"]},
     "PRGT": {"ticker": "PRIVATE", "full_name": "Prince Rupert Gas Transmission Pipeline", "ref_names": ["PRGT", "Prince Rupert Gas Transmission"]},
     "Prince Rupert Gas Transmission": {"ticker": "PRIVATE", "full_name": "Prince Rupert Gas Transmission Pipeline", "ref_names": ["Prince Rupert Gas Transmission", "PRGT"]},
     "Newmont Red Chris Expansion": {"ticker": "NGT.TO", "full_name": "Newmont Corporation - Red Chris Mine Expansion", "ref_names": ["Newmont Red Chris Expansion", "Red Chris Mine", "Newmont Red Chris"]},
